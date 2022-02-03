@@ -1,0 +1,14 @@
+
+.blue-glassmorphism {
+background: rgba(106, 55, 221, 0.43);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+border: 1px solid rgba(106, 55, 221, 0.85);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
